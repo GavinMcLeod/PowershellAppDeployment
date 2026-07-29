@@ -1,2 +1,2 @@
-# Powershell App Deployment Demo
+# PowerShell App Deployment Demo
 This project serves as a demo of my Powershell knowledge, specifically app deployment techniques.
